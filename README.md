@@ -1,5 +1,5 @@
 # Algorithm Used
-The main algorihtm that is used to solve this problem is Genetic Algorithm
+The main algorithm  used to solve this problem is Genetic Algorithm
 
 # Steps
 1. Generate Population
@@ -8,6 +8,12 @@ The main algorihtm that is used to solve this problem is Genetic Algorithm
 4. Mutation
 5. Iterative process of choosing best genes to generate population
 
+# Crossover
+Crossover is done using my own algorithm that takes into consideration of the constraints and to ensure no repetition of genes. It is a simpler alternative to crossover methods like partially mapped crossover or cycle crossover
+![crossover](Images/Crossover.png)
 
 # Results
-![screenshot](Screenshot.png)
+![screenshot](Images/Screenshot.png)
+
+# Documentation
+Detailed explanation are provided in the documentation.docx file
