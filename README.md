@@ -10,7 +10,7 @@ The main algorithm  used to solve this problem is Genetic Algorithm
 
 # Crossover
 Crossover is done using my own algorithm that takes into consideration of the constraints and to ensure no repetition of genes. It is a simpler alternative to crossover methods like partially mapped crossover or cycle crossover
-![crossover](Images/Crossover.png)
+![crossover](Images/crossover.png)
 
 # Results
 ![screenshot](Images/Screenshot.png)
